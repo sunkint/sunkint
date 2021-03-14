@@ -6,6 +6,8 @@ Love CREATION and recording my life. You can find me on my personal website [htt
 
 I’m currently staying in Hangzhou, China.
 
+<img src="https://github-readme-stats.vercel.app/api?username=sunkint&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
 <!--
 **sunkint/sunkint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
