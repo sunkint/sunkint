@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+An idealist. Spent on programming more than half of life.
+
+Love CREATION and recording my life. You can find me on my personal website [https://www.ybusad.com/](https://www.ybusad.com/).
+
+I’m currently staying in Hangzhou, China.
+
 <!--
 **sunkint/sunkint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
